@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>BeanBag</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-01-15T16:28:19.488Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>BeanHarry</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://example.com/2025/01/16/test/"/>
+    <id>http://example.com/2025/01/16/test/</id>
+    <published>2025-01-15T16:15:10.000Z</published>
+    <updated>2025-01-15T16:28:19.488Z</updated>
+    
+    <content type="html"><![CDATA[<p>hello!<img src="https://s2.loli.net/2025/01/16/MGQ42Nw17OyvXAm.png" alt="SHINKU"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;hello!&lt;img src=&quot;https://s2.loli.net/2025/01/16/MGQ42Nw17OyvXAm.png&quot; alt=&quot;SHINKU&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
